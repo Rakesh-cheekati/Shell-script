@@ -2,8 +2,8 @@
 #giving variable values from external terminal as an argumant
 
 #declaring of variables
-persion1=$1
-persion2=$2
+PERSON1=$1
+PERSON2=$2
 
 #referring of variables
 echo "$PERSON1:: Hello $PERSON2, How are you?"
